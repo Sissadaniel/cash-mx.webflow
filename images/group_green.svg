@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="738.104" height="342.053" viewBox="0 0 738.104 342.053">
+  <g id="Grupo_871" data-name="Grupo 871" transform="translate(-1202.134 -1938.049)">
+    <path id="Trazado_2958" data-name="Trazado 2958" d="M9416.961,199.539c2.988,2.988,5.978,11.954,11.954,11.954s5.977-11.954,11.953-11.954,5.978,11.954,11.954,11.954,5.977-11.954,11.953-11.954,8.966,8.965,11.954,11.954" transform="matrix(0.574, 0.819, -0.819, 0.574, -4022.294, -5849.28)" fill="none" stroke="#e8f4ff" stroke-width="6"/>
+    <path id="Trazado_2959" data-name="Trazado 2959" d="M9416.961,199.539c2.988,2.988,5.978,11.954,11.954,11.954s5.977-11.954,11.953-11.954,5.978,11.954,11.954,11.954,5.977-11.954,11.953-11.954,8.966,8.965,11.954,11.954" transform="matrix(-0.883, 0.469, -0.469, -0.883, 10288.363, -2292.565)" fill="none" stroke="#e8f4ff" stroke-width="6"/>
+    <path id="Trazado_2961" data-name="Trazado 2961" d="M9416.961,199.539c2.988,2.988,5.978,11.954,11.954,11.954s5.977-11.954,11.953-11.954,5.978,11.954,11.954,11.954,5.977-11.954,11.953-11.954,8.966,8.965,11.954,11.954" transform="translate(8504.883 -4701.823) rotate(133)" fill="none" stroke="#158a0c" stroke-width="6"/>
+    <g id="Polígono_12" data-name="Polígono 12" transform="matrix(0.883, 0.469, -0.469, 0.883, 1816.434, 2111.132)" fill="none">
+      <path d="M24,0,48,41H0Z" stroke="none"/>
+      <path d="M 24 19.79497337341309 L 17.44095993041992 31 L 30.55904006958008 31 L 24 19.79497337341309 M 24 0 L 48 41 L 0 41 L 24 0 Z" stroke="none" fill="#fff"/>
+    </g>
+    <g id="Grupo_840" data-name="Grupo 840" transform="matrix(0.208, 0.978, -0.978, 0.208, 1602.201, 584.145)">
+      <line id="Línea_210" data-name="Línea 210" y2="30" transform="translate(1523.5 673.5)" fill="none" stroke="#dcdbdb" stroke-width="6"/>
+      <line id="Línea_211" data-name="Línea 211" y2="30" transform="translate(1538.5 688.5) rotate(90)" fill="none" stroke="#dcdbdb" stroke-width="6"/>
+    </g>
+    <g id="Grupo_842" data-name="Grupo 842" transform="matrix(-0.53, 0.848, -0.848, -0.53, 3219.713, 1338.639)">
+      <line id="Línea_210-2" data-name="Línea 210" y2="30" transform="translate(1523.5 673.5)" fill="none" stroke="#dcdbdb" stroke-width="6"/>
+      <line id="Línea_211-2" data-name="Línea 211" y2="30" transform="translate(1538.5 688.5) rotate(90)" fill="none" stroke="#dcdbdb" stroke-width="6"/>
+    </g>
+  </g>
+</svg>

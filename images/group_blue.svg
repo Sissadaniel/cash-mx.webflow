@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="669.365" height="291.219" viewBox="0 0 669.365 291.219">
+  <g id="Grupo_870" data-name="Grupo 870" transform="translate(-601.204 -1365.132)">
+    <g id="Grupo_869" data-name="Grupo 869">
+      <path id="Trazado_2960" data-name="Trazado 2960" d="M9416.961,199.539c2.988,2.988,5.978,11.954,11.954,11.954s5.977-11.954,11.953-11.954,5.978,11.954,11.954,11.954,5.977-11.954,11.953-11.954,8.966,8.965,11.954,11.954" transform="translate(7028.828 9096.742) rotate(-129)" fill="none" stroke="#284491" stroke-width="6"/>
+      <path id="Trazado_2951" data-name="Trazado 2951" d="M9416.961,199.539c2.988,2.988,5.978,11.954,11.954,11.954s5.977-11.954,11.953-11.954,5.978,11.954,11.954,11.954,5.977-11.954,11.953-11.954,8.966,8.965,11.954,11.954" transform="translate(7812.883 -5329.823) rotate(133)" fill="none" stroke="#e8fff9" stroke-width="6"/>
+      <g id="Polígono_13" data-name="Polígono 13" transform="matrix(0.883, 0.469, -0.469, 0.883, 1111.434, 1365.132)" fill="none">
+        <path d="M24,0,48,41H0Z" stroke="none"/>
+        <path d="M 24 19.79497337341309 L 17.44095993041992 31 L 30.55904006958008 31 L 24 19.79497337341309 M 24 0 L 48 41 L 0 41 L 24 0 Z" stroke="none" fill="#fff"/>
+      </g>
+      <g id="Grupo_841" data-name="Grupo 841" transform="matrix(0.208, 0.978, -0.978, 0.208, 973.201, -99.855)">
+        <line id="Línea_210" data-name="Línea 210" y2="30" transform="translate(1523.5 673.5)" fill="none" stroke="#dcdbdb" stroke-width="6"/>
+        <line id="Línea_211" data-name="Línea 211" y2="30" transform="translate(1538.5 688.5) rotate(90)" fill="none" stroke="#dcdbdb" stroke-width="6"/>
+      </g>
+    </g>
+  </g>
+</svg>
