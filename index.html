@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!--  This site was created in Webflow. http://www.webflow.com  -->
-<!--  Last Published: Thu Oct 10 2019 21:55:47 GMT+0000 (UTC)  -->
+<!--  Last Published: Thu Oct 10 2019 22:13:00 GMT+0000 (UTC)  -->
 <html data-wf-page="5d8e9f50464a91081e145945" data-wf-site="5d8e9f50464a911e9c145944">
 <head>
   <meta charset="utf-8">
@@ -61,13 +61,24 @@
                 <input class="button" type="submit" value="Enviar">
               </form>
               <style>
+button, input[type="submit"], input[type="reset"] {
+	background: none;
+	color: inherit;
+	border: none;
+	font: inherit;
+	outline: inherit;
+}
 input[type="email"] {
     height: 40px;
     margin: 10px 0;
     padding-left: 10px;
 }
+form {
+    display: flex !important;
+    align-items: center;
+}
 form .button {
-    height: 39px;
+    height: 41px;
     width: 72px;
     margin-left: -4px;
     color: white;
@@ -114,7 +125,7 @@ form .button {
     </div>
     <div id="como" class="section">
       <div class="container w-container">
-        <div>
+        <div class="div-block-25">
           <h1 class="heading heading_pasos">Haz una tanda en 1, 2, 3.</h1>
           <h5 class="heading-2 text-center">Baja la aplicación en <strong>Google play</strong></h5>
           <div class="column-7 w-row">
@@ -229,6 +240,39 @@ form .button {
               <div class="w-form-fail">
                 <div>Oops! Something went wrong while submitting the form.</div>
               </div>
+            </div>
+            <div class="html-embed w-embed">
+              <form method="post" action="https://formbucket.com/f/buk_UvKdYqu8DCJ24txii3dFoazu">
+                <input type="email" name="email" placeholder="Tu correo" required="">
+                <input class="button" type="submit" value="Enviar">
+              </form>
+              <style>
+button, input[type="submit"], input[type="reset"] {
+	background: none;
+	color: inherit;
+	border: none;
+	font: inherit;
+	outline: inherit;
+}
+input[type="email"] {
+    height: 40px;
+    margin: 10px 0;
+    padding-left: 10px;
+}
+form {
+    display: flex !important;
+    align-items: center;
+}
+form .button {
+    height: 41px;
+    width: 72px;
+    margin-left: -4px;
+    color: white;
+    background: #158a0c;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+</style>
             </div>
           </div>
           <div class="w-col w-col-3 w-col-stack">
