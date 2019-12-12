@@ -1191,6 +1191,7 @@ em {
 }
 
 .html-embed {
+  display: block;
   max-width: 240px;
 }
 
@@ -1630,6 +1631,11 @@ em {
 
 .graphicowls-logo {
   margin-bottom: 15px;
+}
+
+.html-embed-2 {
+  display: none;
+  max-width: 240px;
 }
 
 @media (max-width: 991px) {

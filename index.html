@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!--  This site was created in Webflow. http://www.webflow.com  -->
-<!--  Last Published: Tue Oct 22 2019 17:51:19 GMT+0000 (UTC)  -->
+<!--  Last Published: Thu Dec 12 2019 18:41:32 GMT+0000 (Coordinated Universal Time)  -->
 <html data-wf-page="5d8e9f50464a91081e145945" data-wf-site="5d8e9f50464a911e9c145944">
 <head>
   <meta charset="utf-8">
@@ -34,7 +34,7 @@
         </div>
         <nav role="navigation" class="nav-menu w-nav-menu"><a href="#como" class="nav-link-2 w-nav-link">¿Cómo funciona?</a><a href="#beneficios" class="nav-link-2 w-nav-link">Beneficios</a><a href="#alianzas" class="nav-link-2 w-nav-link">Alianzas</a></nav>
         <div class="div-block-19">
-          <div class="mail_cash"><a href="mailto:hola@mx.cash">hola@mx.cash</a></div><a href="https://twitter.com/cashmx1" class="link-4"><em class="social_navbar"></em></a><a href="https://www.facebook.com/Cashmx-1754180261332788/" class="link-3"><em class="social_navbar"></em></a><a href="https://www.instagram.com/cash.mx/" class="link-3"><em class="social_navbar"></em></a><a href="https://api.whatsapp.com/send?phone=525526741644" class="link-3"><em class="social_navbar"></em></a></div>
+          <div class="mail_cash"><a href="mailto:hola@mx.cash">hola@mx.cash</a></div><a href="https://twitter.com/cashmx1" class="link-4"><em class="social_navbar"></em></a><a href="https://www.facebook.com/Cashmx-1754180261332788/" class="link-3"><em class="social_navbar"></em></a><a href="https://www.instagram.com/cash.mx/" class="link-3"><em class="social_navbar"></em></a><a href="https://api.whatsapp.com/send?phone=525526741644" target="_blank" class="link-3"><em class="social_navbar"></em></a></div>
       </div>
     </div>
   </div>
@@ -55,6 +55,12 @@
                 <div class="text-block-14">Ups! Hubo un error</div>
               </div>
             </div><img src="images/bg_hero1.svg" alt="" class="bg_hero">
+            <div class="html-embed-2 w-embed">
+              <form action="https://formspree.io/mvoprobb" method="POST">
+                <input type="email" name="_replyto">
+                <input type="submit" value="Send">
+              </form>
+            </div>
             <div class="html-embed w-embed">
               <form method="post" action="https://formbucket.com/f/buk_UvKdYqu8DCJ24txii3dFoazu">
                 <input type="email" name="email" placeholder="Tu correo" required="">
@@ -69,15 +75,23 @@ button, input[type="submit"], input[type="reset"] {
 	outline: inherit;
 }
 input[type="email"] {
+    -webkit-appearance: none;
     height: 40px;
     margin: 10px 0;
     padding-left: 10px;
+    border: 1px solid #158a0c;
 }
 form {
     display: flex !important;
     align-items: center;
+        -webkit-align-items: center;
     justify-content:center;
+       -webkit-justify-content:center;
     flex-wrap:wrap;
+    display: -webkit-box; 
+display: -moz-box;
+display: -ms-flexbox;
+display: -webkit-flex; 
 }
 form .button {
     height: 41px;
@@ -225,7 +239,9 @@ form .button {
     <div id="alianzas" class="section alianzas_section">
       <div class="w-container">
         <h1 class="heading-10">Con el apoyo de…</h1>
-        <div class="div-block-7"><img src="images/component-16.png" alt="" class="logos_alianzas"><img src="images/component-17.png" alt="" class="logos_alianzas"><img src="images/component-19.png" alt="" class="logos_alianzas"><img src="images/component-20.png" alt="" class="logos_alianzas"></div>
+        <div class="div-block-7"><img src="images/component-16.png" alt="" class="logos_alianzas"><img src="images/component-17.png" alt="" class="logos_alianzas"><img src="images/component-19.png" alt="" class="logos_alianzas"><img src="images/component-20.png" alt="" class="logos_alianzas">
+          <div class="w-embed"></div>
+        </div>
       </div>
     </div>
     <div class="section-2"><img src="images/sentado.png" alt="" class="image-25">
