@@ -414,10 +414,11 @@ em {
 
 .section.bg_blue {
   padding-bottom: 60px;
-  background-color: #e8f4ff;
+  background-color: #fff;
 }
 
 .section.alianzas_section {
+  display: none;
   margin-top: 0px;
   margin-bottom: 30px;
   padding-top: 0px;
@@ -682,6 +683,7 @@ em {
 
 .image-7 {
   position: relative;
+  max-height: 150px;
 }
 
 .column-14 {
@@ -800,6 +802,7 @@ em {
 .image-15 {
   position: relative;
   z-index: 1;
+  height: 120px;
 }
 
 .image-16 {
@@ -1631,7 +1634,11 @@ em {
   max-width: 240px;
 }
 
-@media (max-width: 991px) {
+.div-block-26 {
+  display: none;
+}
+
+@media screen and (max-width: 991px) {
   .div-block-4.benficios_icono {
     margin-right: 20px;
     -webkit-box-pack: end;
@@ -1981,7 +1988,7 @@ em {
   }
 }
 
-@media (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .div-block-4.benficios_icono {
     margin-right: 13px;
   }
@@ -2194,7 +2201,7 @@ em {
   }
 }
 
-@media (max-width: 479px) {
+@media screen and (max-width: 479px) {
   .div-block-4.benficios_icono {
     width: 100%;
     margin-top: 0px;
